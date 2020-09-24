@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Glasgo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="choose_school">Please Choose Your School</string>
+    <string name="choose_studies">Please Choose Your Type of Studies</string>
+    <string name="choose_interests">Please Choose Your Top Interests</string>
+    <string name="interests_sports">Sports</string>
+    <string name="interests_history">History</string>
+    <string name="interests_technology">Technology</string>
+    <string name="interests_business">Business</string>
+    <string name="building_name">Boyd Orr Building</string>
+    <string name="boyd_orr_1">The Boyd Orr Building is named after the nobel laureate Lord Boyd Orr of Brechin (1880-1971), Rector of the university from 1945 - 1947, and chancellor of the university from 1946 - 1971.</string>
+
+    <string-array name="course_type">
+        <item>Undergraduate</item>
+        <item>Postgraduate</item>
+    </string-array>
+
+    <string-array name="Schools">
+        <item>Computing Science</item>
+        <item>Maths and Stats</item>
+        <item>Adam Smith Business School</item>
+        <item>Engineering</item>
+    </string-array>
+
+    <string name="title_activity_navigation">Map</string>
+    <string name="title_activity_building_info">BuildingInfoActivity</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
